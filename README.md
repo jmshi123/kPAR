@@ -1,7 +1,7 @@
 # kPAR
 Realtime Top-k Personalized PageRank over Large Graphs on GPUs PVLDB2020
 
-### NOTE: please click Releases and download kPAR.zip to get the codes with dblp dataset.
+### NOTE: please click Releases and download kPAR.zip to get the code with dblp dataset.
 
 Please cite our papers if you choose to use our code.
 
